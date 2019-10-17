@@ -56,6 +56,7 @@ ul {
   /*This was a weird thing, but for some reason the form was no left-justifying, so I had to cancel it out here. Might have been a browser thing? In the inspector it said "padding-inline-start: 40px;" */
 }
 
+
 /* header */
 
 #masthead {
@@ -224,10 +225,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-}
-
-
-
+/* MEDIA QUERIES */
 
 @media (max-width: 768px) {
   .main-section {
